@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/missing-profile-dep/missing-profile-dep.iml" filepath="$PROJECT_DIR$/missing-profile-dep/missing-profile-dep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optional-dep/optional-dep.iml" filepath="$PROJECT_DIR$/optional-dep/optional-dep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/use-optional-dep/use-optional-dep.iml" filepath="$PROJECT_DIR$/use-optional-dep/use-optional-dep.iml" />
+    </modules>
+  </component>
+</project>
